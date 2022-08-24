@@ -1,3 +1,7 @@
 *.py
 .vscode
 book.pdf
+best_model_SaveModel_format/keras_metadata.pb
+best_model_SaveModel_format/saved_model.pb
+best_model_SaveModel_format/variables/variables.data-00000-of-00001
+best_model_SaveModel_format/variables/variables.index
